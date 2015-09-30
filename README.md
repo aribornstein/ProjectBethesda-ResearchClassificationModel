@@ -3,12 +3,24 @@
 
 ##Contents##
   1. **Classification Methodology**
-  2. **Preformance Benchmarks**
+  2. **Performance Benchmarks**
   3. **How to Consume** 
 
-##1. Classification Methodolgy##
+##1. Classification Methodology##
+- **Project Bethesda Dataset**
+    - The DataSet is 2100 Articles selected by Dr. Benjamin Solomon head of Genomics at Inova ITMI 
+      - 140 Genes
+      - 15 Articles per a Gene 
+      - 5 Articles per a research type per a Gene.
+      
+- **Text Normalization**
 
-##2. Preformance Benchmarks##
+- **Feature Selection**
+
+- **Model Selection and Parameters**
+
+
+##2. Performance Benchmarks##
 
 ##3. How to Consume##
 
