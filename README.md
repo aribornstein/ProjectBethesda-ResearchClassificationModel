@@ -13,14 +13,27 @@
       - 15 Articles per a Gene 
       - 5 Articles per a research type per a Gene.
       
-- **Text Normalization**
+- **Abstract Normalization**
+   - Convert all text to lowercase 
+   - Remove Stopwords from NLTK Stopwords Corpus
+   - Remove Standalone numbers (1, 2, 3 but not brca1)
+   - Remove Number Words (one,two, three)
+   - Remove Punctuation (periods, commas, etc)
 
 - **Feature Selection**
+  - Prepend the Title, Authors,  Journal Title Abbreviation, Publication Type to the abstract
+  - Use the Azure ML feature hashing module with n-grams of 4 and a Hashing Bitsize of 15
+  - Convert ResearchPhase into a TwoClassLabel
 
 - **Model Selection and Parameters**
-
+  - Combine a two-class Boosted Decison Tree with a One vs All Classifer
+    - Max of 32 Leaves Per a Tree
+    - Min of 50 instances per a Leaf
+    - Learning Rate of 0.2
+    - 100 Trees
 
 ##2. Performance Benchmarks##
+
 
 ##3. How to Consume##
 
