@@ -35,7 +35,9 @@ The DataSet contains Medline Metadata from 2100 Articles categorized  by Dr. Ben
     - 100 Trees
 
 ##2. Performance Benchmarks##
+- Using a randomized test/train split 
 
+![alt tag](../media/media/ProjectBethesdaML%20Results.png)
 
 ##3. How to Consume##
 
