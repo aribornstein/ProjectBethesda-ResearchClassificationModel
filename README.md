@@ -1,5 +1,7 @@
 # Project Bethesda: Research Classification Model
 
+Classifcation model to identify the research phase of a Pubmed article from Medline Metadata.
+
 ##Contents##
   1. **Classification Methodology**
   2. **Performance Benchmarks**
