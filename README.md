@@ -34,7 +34,12 @@ The DataSet contains Medline Metadata from 2100 Articles categorized  by Dr. Ben
     - 100 Trees
 
 ##2. Performance Benchmarks##
-- Using a randomized test/train split of 70-30 here is the average run result:
+
+Using a randomized test/train split of 70-30 here is the average run result:
+
+ - 0 = Basic Science Articles
+ - 1 = Clinical Articles 
+ - 2 = Managed Articles
 
 ![alt tag](/media/ProjectBethesdaML%20Results.png)
 
