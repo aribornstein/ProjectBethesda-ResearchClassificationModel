@@ -8,8 +8,10 @@
 
 ##1. Classification Methodology##
 - **Project Bethesda Dataset**
-    - The DataSet is 2100 Articles selected by Dr. Benjamin Solomon head of Genomics at Inova ITMI 
-      - 140 Genes
+   
+The DataSet contains Medline Metadata from 2100 Articles categorized  by Dr. Benjamin Solomon head of Genomics at Inova ITMI
+   - Dataset Composition: 
+      - Medline metadata from 140 Genes
       - 15 Articles per a Gene 
       - 5 Articles per a research type per a Gene.
       
