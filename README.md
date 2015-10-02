@@ -3,7 +3,7 @@
 ##Contents##
   1. **Classification Methodology**
   2. **Performance Benchmarks**
-  3. **How to Consume** 
+  3. **Resources to learn more about Azure ML** 
 
 ##1. Classification Methodology##
 **Project Bethesda Dataset**
@@ -38,7 +38,7 @@ The DataSet contains Medline Metadata from 2100 Articles categorized  by Dr. Ben
 
 ![alt tag](/media/ProjectBethesdaML%20Results.png)
 
-##Resources to learn more about Azure ML:##
+##3. Resources to learn more about Azure ML:##
 
 * [MVA Getting Started with Microsoft Azure Machine Learning](https://www.microsoftvirtualacademy.com/en-us/training-courses/getting-started-with-microsoft-azure-machine-learning-8425)
 *	[Azure Machine Learning (FAQ) Types](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-faq/)
