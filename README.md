@@ -1,13 +1,12 @@
 # Project Bethesda: Research Classification Model
 
-
 ##Contents##
   1. **Classification Methodology**
   2. **Performance Benchmarks**
   3. **How to Consume** 
 
 ##1. Classification Methodology##
-- **Project Bethesda Dataset**
+**Project Bethesda Dataset**
    
 The DataSet contains Medline Metadata from 2100 Articles categorized  by Dr. Benjamin Solomon head of Genomics at Inova ITMI
    - Dataset Composition: 
@@ -35,14 +34,11 @@ The DataSet contains Medline Metadata from 2100 Articles categorized  by Dr. Ben
     - 100 Trees
 
 ##2. Performance Benchmarks##
-- Using a randomized test/train split 
+- Using a randomized test/train split of 70-30 here is the average run result:
 
-![alt tag](../media/media/ProjectBethesdaML%20Results.png)
+![alt tag](/media/ProjectBethesdaML%20Results.png)
 
-##3. How to Consume##
-
-
-***Resources to learn more about Azure ML:***
+##Resources to learn more about Azure ML:##
 
 * [MVA Getting Started with Microsoft Azure Machine Learning](https://www.microsoftvirtualacademy.com/en-us/training-courses/getting-started-with-microsoft-azure-machine-learning-8425)
 *	[Azure Machine Learning (FAQ) Types](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-faq/)
