@@ -48,9 +48,9 @@ Using a randomized test/train split of 70-30 here is the average run result:
 ##3. Resources to learn more about Azure ML:##
 
 * [MVA Getting Started with Microsoft Azure Machine Learning](https://www.microsoftvirtualacademy.com/en-us/training-courses/getting-started-with-microsoft-azure-machine-learning-8425)
-*	[Azure Machine Learning (FAQ) Types](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-faq/)
+*	[Azure Machine Learning (FAQ) Types](https://azure.microsoft.com/documentation/articles/machine-learning-faq/?WT.mc_id=aiml-0000-abornst)
 * [Blog: TechNet Machine Learning Blog](http://blogs.technet.com/b/machinelearning/)
-* [Module Descriptions: Machine Learning Module Descriptions] (https://msdn.microsoft.com/en-us/library/azure/dn906013.aspx)
+* [Module Descriptions: Machine Learning Module Descriptions] (https://msdn.microsoft.com/library/azure/dn906013.aspx?WT.mc_id=aiml-0000-abornst)
 
 ```
 **ABOUT THE Author**
